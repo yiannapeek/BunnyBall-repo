@@ -1,5 +1,5 @@
 
-=== Wed Oct 15 07:28:46 2025
+=== Thu Oct 16 09:36:57 2025
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
@@ -48,19 +48,3 @@ The following packages were updated:
   com.unity.test-framework from version 1.4.2 to 1.6.0
   com.unity.timeline from version 1.8.6 to 1.8.9
   com.unity.visualscripting from version 1.9.1 to 1.9.7
-
-=== Wed Oct 15 08:30:53 2025
-
-Packages were changed.
-Update Mode: updateDependencies
-
-The following packages were updated:
-  com.unity.cinemachine from version 2.8.9 to 2.10.4
-
-=== Wed Oct 15 08:30:53 2025
-
-Packages were changed.
-Update Mode: mergeDefaultDependencies
-
-The following packages were added:
-  com.unity.cinemachine@2.10.4
